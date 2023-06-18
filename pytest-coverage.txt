@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.9.6, pytest-7.3.1, pluggy-1.0.0
+rootdir: /Users/andric/Repos/Exercises/CoRise-DevOps-Crash-Course/week1-devops
+plugins: cov-4.1.0
+collected 4 items
+
+tests/test_calculator.py ....                                            [100%]
+
+- generated xml file: /Users/andric/Repos/Exercises/CoRise-DevOps-Crash-Course/week1-devops/pytest.xml -
+
+---------- coverage: platform darwin, python 3.9.6-final-0 -----------
+Name            Stmts   Miss  Cover   Missing
+---------------------------------------------
+calculator.py      15      6    60%   24-29
+---------------------------------------------
+TOTAL              15      6    60%
+
+============================== 4 passed in 0.12s ===============================
